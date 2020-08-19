@@ -15,4 +15,4 @@ web-report/
 
 # Idea
 .idea
-.iml
+*.iml
